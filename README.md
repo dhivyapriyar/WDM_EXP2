@@ -42,6 +42,8 @@ G40,high,yes,excellent,yes
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
+
+   
 ### OUTPUT:
 ![wd1](https://github.com/user-attachments/assets/8b48f285-996d-4ece-ab11-8424ceac7b2e)
 
@@ -52,6 +54,7 @@ G40,high,yes,excellent,yes
 4) Select Associate option on the top of the Menu bar.
 5) Select Choose button and then click on Apriori Algorithm.
 6) Click on Start button and output will be displayed on the right side of the window.
+
 
 ### OUTPUT:
 ![wd2](https://github.com/user-attachments/assets/8881398b-39ba-4b35-a9d7-b98dcfe6a1b0)
